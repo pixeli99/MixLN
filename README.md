@@ -1,6 +1,6 @@
 # Mix-LN
 
-This repo contains the pre-release version of Mix-LN algorithm, proposed by [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/pdf/2412.13795v1).
+ [ICLR 2025] This repo contains the pre-release version of Mix-LN, proposed by [Mix-LN: Unleashing the Power of Deeper Layers by Combining Pre-LN and Post-LN](https://arxiv.org/pdf/2412.13795v1).
 
 We introduce Mix-LN which combines the benefits of Pre-LN and Post-LN to encourage a more balanced training across layers, thereby improving the overall quality of the model.
 
